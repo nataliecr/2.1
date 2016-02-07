@@ -1,4 +1,3 @@
-
 package pkg2.pkg1;
 import java.util.Scanner;
 
